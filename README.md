@@ -8,14 +8,11 @@ Features:
 - Output
 
 Example:
-`
-import { Parser } from "./src/parser.js";
-
-const doku = 
+``` 
 name = "Dogukan Durukan"
 otherName = name
 anotherName2 = otherName
 
 output anotherName2
-`
+```
 The output will be Dogukan Durukan.
